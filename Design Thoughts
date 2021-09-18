@@ -1,0 +1,50 @@
+Playing Field
+
+Rifleman
+
+Grid of squares.
+Freeform turning??
+Fixed Turning????
+90 degree TURNING?!?
+
+Each Square should have.
+
+Over a flat plane?
+LoS blocking? Panel of 9s?
+
+Distance measurement?
+quasi-manhattan?  X component, Y component.  Lookup table for speed?
+Not that performant intensive, just work it out and round?
+Quake's quick formula?
+
+
+Coordinate positions.
+Terrain type?
+Or just values for categories.
+But what categories?
+
+
+1. Height?
+Cover value? (Ranged and Melee?
+Is a trench lower height, or just high cover?
+2. LoS Blocking?
+3. Stopping power?
+4. Movement cost? Foot, Wheeled, Tracked?
+5. Ease of Movement directions?
+6. Resistance to movement?
+
+Sod this.
+
+Visible or not? Worked out at the time?
+
+Is this why it's not done? Because larger maps result in exponential viewing?
+
+
+
+
+
+Tile On Hover Over?
+Tile Mangager? - Who's selected?
+
+Prefabs for tile versions?
+
